@@ -3,6 +3,7 @@ This is a program generate ASCII-image based on user-defined iamge and character
 
 # Package
 This program require PIL package
+
 ```pip install pillow```
 
 # Example
