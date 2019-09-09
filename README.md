@@ -7,5 +7,6 @@ This program require PIL package
 ```pip install pillow```
 
 # Example
-![831455461123414353](https://user-images.githubusercontent.com/46532194/64559343-14021c00-d314-11e9-8276-b9dffe37a4bf.jpg)     
-                                           
+
+![example](https://user-images.githubusercontent.com/46532194/64559517-7c50fd80-d314-11e9-85b2-bf2e955b5279.jpg)
+
