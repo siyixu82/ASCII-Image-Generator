@@ -1,0 +1,45 @@
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+            C                         C                     
+            CC                       CC                     
+           CCCC                      CC                     
+           CCCC                     CCCC                    
+           CCCCCCCCCCCCCCCCCCCCCCC CCCCC                    
+          CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC                    
+          CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC                    
+         CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC                   
+        CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC                  
+       CCCC\CCCCCCCCCCCCCCCCCCCC\CCCC\CCCCC                 
+      CCCC\CCCCCCC\CCCCCCCCCCC\\CCCCCC\\CCCC                
+     CCC\\CCCCCCCC\\CCCCCCCCC\\CCCCCCCC\\CCCC               
+    CCC\\\CCCCCCCC\\\CCCCCCC\\\CCCCCCCC\\\CCC               
+    CCC\\\CCCCCCCC\\\\CCCCCC\\\CCCCCCCC\\\\CC               
+    CCCC\\CCCCCCCC\\\CCCCCCC\\\CCCCCCCC\\\CCC               
+    CCCCC\\CCCCCCC\\CCCCCCCCC\\\CCCCCC\\\CCCC               
+    CCCCCC\\CCCCC\\CCCCCCCCCCCC\CCCCC\\CCCCCC  CCCCCC       
+    CCCCCCCCCC\\CCCCCCCCCCCCCCCCCC\\\CCCCCCCC CCC  CCCCC    
+     CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC CC      CCCC   
+      CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC CC         CCC  
+       CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC  CC          CCC 
+         CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC    CC           CC 
+            CCCCCCCCCCCCCCCCCCCCCCCCCC      CC          CCC 
+               CCCCCCCCCCCCCCCCCCC          CC         CCC  
+                        CCCCC               CC      CCCCC   
+                        CCCCCC             CCC              
+                        CCCCCCC            CCC              
+                       CCCCCCCCC           CC               
+                       CCCCCCCCCC         CCC               
+                       CCCCCCCCCC        CCC                
+                       CCCCCCCCCCC      CCC                 
+                       CCCCCCCCCCC   CCCC                   
+                      CCCCCCCCCCCCCCCCC                     
+                      CCCCCCCCCCCCCC                        
+                      CCCCCCCCCCC                           
+                           CCC                              
+                                                            
+                                                            
+                                                            
+                                                            
